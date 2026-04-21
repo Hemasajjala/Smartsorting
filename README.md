@@ -15,4 +15,4 @@ Core Capabilities
 Project Metadata
  * Team ID:  LTVIP2026TMIDS78184
  * Lead: Karnam Tanvi
- * Team Members:  Mamatha Bojja, Salla Hemachandrika, Bhavya Sri Avula, Hemavathi Sajjala
+ * Team Members:  Hemavathi Sajjala, Mamatha Bojja, Salla Hemachandrika, Bhavya Sri Avula
